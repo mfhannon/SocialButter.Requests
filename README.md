@@ -9,7 +9,7 @@ To create a new issue/feature request:
 
 3) If the request does not exist, create a new request - https://github.com/mfhannon/SocialButter.Requests/issues/new
 
-4) Fill in the following:
+4) Fill in the following:\n
   Title: Short description of the issue / request
   Labels: Add Bug for an issue or Enhancement for a new feature requests
      For issues, specify the system where the issue was discovered: OS X or iOS
